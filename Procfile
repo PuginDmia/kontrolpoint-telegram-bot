@@ -1,1 +1,1 @@
-bot: python auto_bot_monitor.py
+web: python render_web_bot.py
